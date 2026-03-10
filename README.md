@@ -23,9 +23,6 @@ Before coding, I worked as a UX designer. This means that I think a lot about
 the person on the other side of the screen before I think about 
 the implementation.
 
-## Coding goals
-- 
-
 ## Right now
 🔨 Planning for a Dungeons & Dragons webapp built with React and Supabase
 📖 Deepening my knowledge of accessible frontend development  
