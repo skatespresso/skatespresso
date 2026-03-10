@@ -24,13 +24,11 @@ the person on the other side of the screen before I think about
 the implementation.
 
 ## Right now
-🔨 Planning for a Dungeons & Dragons webapp built with React and Supabase
-📖 Deepening my knowledge of accessible frontend development  
-🔍 Looking for a LIA placement where values matter
+- 🔨 Planning for a Dungeons & Dragons webapp built with React and Supabase
+- 📖 Deepening my knowledge of accessible frontend development  
+- 🔍 Looking for a LIA placement where values matter
 
 ## Fun fact
 My GitHub username derives from two of my favourite hobbies:
-☕ Coffee making (I'm nerdy about getting the perfect espresso shot!)
-🛼 ... and Roller skating! I used to skate in the park a lot, but currently I'm learning dance moves and spins.
-
-[![Elins GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- ☕ Coffee making (I'm nerdy about getting the perfect espresso shot!)
+- 🛼 ... and Roller skating! I used to skate in the park a lot, but currently I'm learning dance moves and spins.
