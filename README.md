@@ -1,4 +1,4 @@
-[![MasterHead]( https://github.com/skatespresso/skatespresso/blob/main/ghbanner.png)](https://github.com/skatespresso)
+
 
 # Hi, I'm Elin 👋
 
